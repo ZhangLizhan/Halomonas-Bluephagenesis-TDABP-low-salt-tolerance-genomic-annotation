@@ -1,0 +1,6 @@
+Strain	Type (#)	Copy Number (#)	Average Length (bp)	Total Length (#)	% in Genome
+TD01AB	tRNA	53	78.16	"4,143"	0.1025
+	5s_rRNA (Denovo)	2	115	230	0.0056
+	16s_rRNA (Denovo)	1	"1,521"	1521	0.0376
+	23s_rRNA (Denovo)	1	"2,892"	2892	0.0715
+	sRNA	17	109.05	"1,854"	0.0459
